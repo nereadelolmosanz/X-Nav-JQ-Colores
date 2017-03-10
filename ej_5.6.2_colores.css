@@ -1,0 +1,45 @@
+body {
+  padding-top: 50px;
+  padding-bottom: 20px;
+  padding-left: 100px;
+  padding-right: 100px;
+  background-color: transparent;
+}
+h1 {
+  font: 100% Verdana;
+  font-size: 1.5em;
+  text-align: center;
+}
+div{
+  border: 2px solid black;
+}
+#lista1, #lista2, #lista3{
+  text-align: center;
+  font-style: italic;
+}
+#footer{
+  font-size: 0.75em;
+  text-align: right;
+}
+
+/* CLASES PARA COLORES DE FONDO */
+.bg-red {
+  background-color: #F5A9A9;
+}
+.bg-blue {
+  background-color: #CEECF5;
+}
+.bg-green {
+  background-color: #A9F5A9;
+}
+
+/* CLASES PARA COLORES DE TEXTO */
+.txt-red {
+  color: #DF0101;
+}
+.txt-blue {
+  color: #08088A;
+}
+.txt-green {
+  color: #0B3B17;
+}
